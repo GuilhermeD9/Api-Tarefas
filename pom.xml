@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>todo-list</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>project-tarefas</name>
 	<description>API de tarefas para desafio de back-end Jr</description>
