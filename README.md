@@ -1,6 +1,6 @@
 # Projeto API de tarefas com Spring Boot!!
 
-O projeto traz uma aplicação back-end de tarefas em um desafio proposto que vi no canal da Giulliana Bezerra
+O projeto traz uma aplicação back-end de tarefas em um desafio proposto
 
 ## 🚀 Começando
 
@@ -18,9 +18,13 @@ IDE Java - Servidor MySQL - Java 21
 ### 🔧 Instalação
 
 Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
+Nesse caso você tem duas opções para rodar o projeto:
 
 ```
-Criar um database com o nome de "todolist" no seu MySql
+Opção 01: Criar um database com o nome de "todolist" no seu MySql
+
+Opcão 02: Criar um container docker pelo arquivo docker-compose.yml
+
 Executar o arquivo: ProjectTarefasApplication
 ```
 
